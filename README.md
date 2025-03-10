@@ -6,15 +6,17 @@ These methods allow researchers to detect and measure biases and stereotypes in 
 
 ## Installation
 
-```bash
-pip install -r requirements.txt
-```
-
 ### Getting the code
 
 ```bash
 git clone https://github.com/lachlovy/weat-wefat.git
 cd weat-wefat
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Usage
